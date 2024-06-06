@@ -7,10 +7,10 @@
 
         <a
           class="links"
-          href="http://"
+          href="https://wa.me/5511938001071"
           target="_blank"
           rel="noopener noreferrer"
-          >(11) 00000-0000</a
+          >(11) 93800-1071</a
         >
         <a
           class="links"
@@ -22,17 +22,17 @@
       </div>
       <div class="icones-center">
         <div class="icones">
-          <a href="#"
+          <a href="https://www.instagram.com/caique_o_castro?igsh=MXU4eWJmZXF4MHB1Ng==" target="_blank"
             ><ion-icon class="icons" name="logo-instagram"></ion-icon
           ></a>
         </div>
         <div class="icones">
-          <a href="#"
+          <a href="www.linkedin.com/in/caique-oliveira-front-end" target="_blank"
             ><ion-icon class="icons" name="logo-linkedin"></ion-icon
           ></a>
         </div>
         <div class="icones">
-          <a href="#"
+          <a href="https://wa.me/5511938001071" target="_blank"
             ><ion-icon class="icons" name="logo-whatsapp"></ion-icon
           ></a>
         </div>

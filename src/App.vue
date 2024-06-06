@@ -3,7 +3,7 @@
     <div class="logo-pizza">
       <img class="pizza" src="./assets/img/Logo-Caique-O-Castro-2.png" alt="Logo" />
     </div>
-    <a class="btn-orçamento" href=""><button  class="btn-orçamento">Solicite um Orçamento</button></a>
+    <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"><button  class="btn-orçamento">Solicite um Orçamento</button></a>
     
   </div>
 

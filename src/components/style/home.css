@@ -213,20 +213,13 @@
 }
 .box-meio-final:hover{
     background-image: var(--gradient);
-    color: transparent;
-    color: white;
     border: none;
 }
 .titulo-inici-2 {
     font-weight: 400;
-    background-image: var(--gradient);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
-.titulo-inici-2:hover{
     color: white;
 }
+
 
 .container-final{
     display: flex;
@@ -301,6 +294,17 @@
     }
     .content-final{
         width: 100%;
+    }
+    .box-meio-final:hover{
+        background-image: none;
+        border: 1px solid #f5003d50;
+    }
+    .titulo-inici-2 {
+        font-weight: 400;
+        background-image: var(--gradient);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
     }
 }
 @media screen and (max-width: 820px) {

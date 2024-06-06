@@ -12,7 +12,7 @@
           Transforme sua presença digital em uma máquina de geração de negócios
           com um site personalizado.
         </p>
-        <a class="btn-orçamento" href=""
+        <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
           ><button class="btn-orçamento">Solicite um Orçamento</button></a
         >
       </div>
@@ -66,7 +66,7 @@
           empresa, mas é preciso ter um site profissional para aproveitar essas
           oportunidades.
         </p>
-        <a class="btn-orçamento" href=""
+        <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
           ><button class="btn-orçamento">Solicite um Orçamento</button></a
         >
       </div>
@@ -81,7 +81,7 @@
           Não importa se você está começando agora ou se trabalha em uma grande
           empresa, nossos serviços vão te atender!
         </p>
-        <a class="btn-orçamento" href=""
+        <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
           ><button class="btn-orçamento">Solicite um Orçamento</button></a
         >
       </div>
@@ -118,7 +118,7 @@
         <h2 class="titulo-final-2">aumente sua presença online</h2>
         <h5 class="sub-final-1">e gere mais negócios  com um site profissional.</h5>
         <p class="sub-final-2">Entre em contato agora para obter uma consultoria gratuita!</p>
-        <a class="btn-orçamento" href=""
+        <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
         ><button class="btn-orçamento">Solicite um Orçamento</button></a
       >
       </div>
