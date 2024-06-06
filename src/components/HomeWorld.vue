@@ -127,4 +127,5 @@
     <FooterWorld />
   </div>
 </template>
+<script src="./js/homescript.js"></script>
 <style src="./style/home.css"></style>
