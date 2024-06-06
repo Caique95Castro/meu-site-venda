@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-geral-contato{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+main {
+    display: block;
+}
+section.module.parallax {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+section.module.parallax:after {
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: -moz-linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 40%, #000 100%);
+    background: -webkit-linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 40%, #000 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 40%, #000 100%);
+}
+
+section.module.parallax-1 {
+    background-image: url("https://i.im.ge/2024/06/05/KweqJ0.3d-render-abstract-technology-background-network-communications.jpeg");
+}
+.area-1{
+    margin-top: 5rem;
+}
+.texto-apresen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 50px;
+    z-index: 8;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.texto-1{
+    color: #FFF;
+    font-weight: 600;
+    font-size: 20px;
+    z-index: 50;
+}
+
+.ponto{
+    color: #ffcc29;
+}
+
+.container-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 80%;
+    padding: 50px 20px;
+    background-color: rgba(0, 0, 0, 0.589);
+    z-index: 60;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+@media screen and (max-width: 786px){
+    .texto-apresen{
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .container-form{
+        width: 95%;
+        padding: 20px 0px;
+    }
+    .container-form-local{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column !important;
+        width: 100%;
+    }
+    .form-geral{
+        width: 100% !important;
+    }
+    .formulario{
+        width: 100%;
+    }
+    .inputs-mensagem{
+        width: 85% !important;
+    }
+    .mensagem{
+        width: 100%;
+    }
+    .titulo-form{
+        width: 70% !important;
+        gap: 10px;
+        margin-top: 20px;
+    }
+}
+.container-form-local{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.form-geral{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+}
+.inputs{
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+}
+.input-text{
+    width: 300px;
+    height: 35px;
+    outline: none;
+    border: none;
+    padding: 0 10px;
+}
+.inputs-mensagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    flex-direction: column;
+    width: 80%;
+    padding: 0 10px;
+}
+.mensagem{
+    width: 100%;
+    border: none;
+    outline: none;
+}
+.botao-enviar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 50px;
+    border-radius: 40px;
+}
+.botao-botao{
+    width: 100%;
+    height: 50px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    background-color: orangered;
+}
+.titulo-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+}
+.icones-center-1{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.icones-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border: 1px solid orangered;
+    border-radius: 99px;
+}
+.icones-1 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+}
+.icones-1:hover{
+    background-color: orangered;
+}
+.icons-1{
+    font-size: 25px;
+    color: orangered;
+}
+.icons-1:hover {
+    color: white;
+    
+}
+.link-color{
+    color: white;
+}
+
+
+.google-maps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 97%;
+    z-index: 60;
+    margin-bottom: 20px;
+}
+.mapa{
+    width: 100%;
+    height: 450px;
+}
+
