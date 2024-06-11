@@ -14,20 +14,24 @@
         >
         <a
           class="links"
-          href="http://"
+          href="mailto:caiqueocastro@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
-          >email.email@teste.com</a
+          >caiqueocastro@gmail.com</a
         >
       </div>
       <div class="icones-center">
         <div class="icones">
-          <a href="https://www.instagram.com/caique_o_castro?igsh=MXU4eWJmZXF4MHB1Ng==" target="_blank"
+          <a
+            href="https://www.instagram.com/caique_o_castro?igsh=MXU4eWJmZXF4MHB1Ng=="
+            target="_blank"
             ><ion-icon class="icons" name="logo-instagram"></ion-icon
           ></a>
         </div>
         <div class="icones">
-          <a href="www.linkedin.com/in/caique-oliveira-front-end" target="_blank"
+          <a
+            href="www.linkedin.com/in/caique-oliveira-front-end"
+            target="_blank"
             ><ion-icon class="icons" name="logo-linkedin"></ion-icon
           ></a>
         </div>
@@ -41,7 +45,21 @@
   </div>
 </template>
 <style scoped>
-.container-geral-footer{
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --gradient: linear-gradient(
+      to right,
+      #ff0000,
+      #5b1325
+  )
+  
+}
+.container-geral-footer {
   width: 100%;
 }
 .footer {
@@ -52,20 +70,27 @@
   width: 100%;
   padding: 20px 100px;
   background-color: black;
-  color: #fff;
 }
-@media screen and (max-width: 786px){
+@media screen and (max-width: 786px) {
   .footer {
     padding: 20px 20px;
   }
 }
-.linha-fundo{
+.linha-fundo {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   width: 100%;
   border-bottom: 1px solid #ff0000;
+}
+.name-empresa {
+  font-weight: 600;
+    font-size: 50px;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
 }
 .name-empresa-1 {
   display: none;
@@ -80,17 +105,25 @@
   }
   .name-empresa-1 {
     display: flex;
+    background-image: var(--gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
   }
 }
 .footer h1 {
   font-weight: 900;
-  color: #fff;
 }
 .footer a {
   text-decoration: none;
-  color: #fff;
   margin-bottom: 10px;
   width: 11rem;
+}
+.links{
+  color: white;
+}
+.links:hover{
+  color: red;
 }
 .icones-center {
   display: flex;
