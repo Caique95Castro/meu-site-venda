@@ -30,7 +30,7 @@
         </div>
         <div class="icones">
           <a
-            href="www.linkedin.com/in/caique-oliveira-front-end"
+            href="https://www.linkedin.com/in/caique-oliveira-front-end"
             target="_blank"
             ><ion-icon class="icons" name="logo-linkedin"></ion-icon
           ></a>
