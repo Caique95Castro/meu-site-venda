@@ -94,7 +94,7 @@
         <div class="box-meio-final">
           <h2 class="titulo-inici-2"><strong>Sites empresariais</strong></h2>
           <p>
-            Sejareconhecido como lider em sua industria com um site profissional
+            Seja reconhecido como lider em sua industria com um site profissional
             e confiável.
           </p>
         </div>
