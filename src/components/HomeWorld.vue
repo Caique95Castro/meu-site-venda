@@ -54,7 +54,7 @@
           No futuro, só existirão dois tipos de empresas:
         </p>
         <h1 class="titulo-inici-1">
-          <strong>as que operam online.</strong>
+          <strong>as que operam online,</strong>
         </h1>
         <h3 class="sub-titulo-inicio">
           <strong>e as que estão fora do mercado.</strong>
