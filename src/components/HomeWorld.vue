@@ -4,13 +4,11 @@
       <div class="content-inicio-text">
         <h1 class="titulo-inici">
           <strong
-            >Site profissional para impulsionar o sucesso de sua
-            empresa.</strong
+            >Eleve o sucesso da sua empresa com um site profissional.</strong
           >
         </h1>
         <p class="sub-inici">
-          Transforme sua presença digital em uma máquina de geração de negócios
-          com um site personalizado.
+          Converta sua presença digital em uma poderosa ferramenta de geração de negócios com um site feito sob medida.
         </p>
         <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
           ><button class="btn-orçamento">Solicite um Orçamento</button></a
@@ -53,18 +51,16 @@
       </div>
       <div class="content-inicio-text-1">
         <p class="sub-inici">
-          Em alguns anos vão existir dois tipos de empresas
+          No futuro, só existirão dois tipos de empresas:
         </p>
         <h1 class="titulo-inici-1">
-          <strong>as que fazem negócio pela internet.</strong>
+          <strong>as que operam online.</strong>
         </h1>
         <h3 class="sub-titulo-inicio">
-          <strong>e as que estão fora dos negócios.</strong>
+          <strong>e as que estão fora do mercado.</strong>
         </h3>
         <p class="sub-inici">
-          O mundo Digital é a chave para o crescimento exponencial de sua
-          empresa, mas é preciso ter um site profissional para aproveitar essas
-          oportunidades.
+          O mundo digital é essencial para o crescimento da sua empresa. Garanta um site profissional e aproveite essas oportunidades!
         </p>
         <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
           ><button class="btn-orçamento">Solicite um Orçamento</button></a
@@ -78,8 +74,7 @@
           <strong>Pequenas, Médias e Grandes empresas.</strong>
         </h1>
         <p class="sub-inici">
-          Não importa se você está começando agora ou se trabalha em uma grande
-          empresa, nossos serviços vão te atender!
+          Seja você uma startup ou uma grande corporação, nossos serviços são projetados para atender às suas necessidades. Entre em contato e descubra como podemos ajudar seu negócio a crescer!
         </p>
         <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
           ><button class="btn-orçamento">Solicite um Orçamento</button></a
@@ -114,10 +109,10 @@
     </div>
     <div class="container-final">
       <div class="content-final">
-        <h3 class="titulo-final-1"><strong>Não perca mais tempo,</strong></h3>
-        <h2 class="titulo-final-2">aumente sua presença online</h2>
-        <h5 class="sub-final-1">e gere mais negócios  com um site profissional.</h5>
-        <p class="sub-final-2">Entre em contato agora para obter uma consultoria gratuita!</p>
+        <h3 class="titulo-final-1"><strong>Não espere mais!</strong></h3>
+        <h2 class="titulo-final-2">Amplie sua presença online</h2>
+        <h5 class="sub-final-1">e aumente seus negócios com um site profissional. </h5>
+        <p class="sub-final-2">Entre em contato agora e ganhe uma consultoria gratuita!"</p>
         <a class="btn-orçamento" href="https://wa.me/5511938001071" target="_blank"
         ><button class="btn-orçamento">Solicite um Orçamento</button></a
       >
