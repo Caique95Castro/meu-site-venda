@@ -29,10 +29,10 @@ export default {
     // Configure as animações para os elementos desejados
 
     // Primeiro parallax
-    sr.reveal('.content-inicio-text', { origin: 'left', scale: 0.90 });
-    sr.reveal('.content-inicio-text-2', { origin: 'left', scale: 0.90 });
-    sr.reveal('.content-inicio-text-1', { origin: 'right', scale: 0.90 });
-    sr.reveal('.content-inicio-image', { origin: 'right', scale: 0.90 });
+    sr.reveal('.content-inicio-text', { origin: 'top', scale: 0.90 });
+    sr.reveal('.content-inicio-text-2', { origin: 'bottom', scale: 0.90 });
+    sr.reveal('.content-inicio-text-1', { origin: 'top', scale: 0.90 });
+    sr.reveal('.content-inicio-image', { origin: 'bottom', scale: 0.90 });
     
 
     // primeiro texto
