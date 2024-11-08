@@ -7,13 +7,6 @@
 
         <a
           class="links"
-          href="https://wa.me/5511938001071"
-          target="_blank"
-          rel="noopener noreferrer"
-          >(11) 93800-1071</a
-        >
-        <a
-          class="links"
           href="mailto:caiqueocastro@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
@@ -51,13 +44,8 @@
   box-sizing: border-box;
 }
 
-:root{
-  --gradient: linear-gradient(
-      to right,
-      #ff0000,
-      #5b1325
-  )
-  
+:root {
+  --gradient: linear-gradient(to right, #ff0000, #5b1325);
 }
 .container-geral-footer {
   width: 100%;
@@ -70,6 +58,7 @@
   width: 100%;
   padding: 20px 100px;
   background-color: black;
+  gap: 30px;
 }
 @media screen and (max-width: 786px) {
   .footer {
@@ -83,14 +72,15 @@
   flex-direction: column;
   width: 100%;
   border-bottom: 1px solid #ff0000;
+  gap: 30px;
 }
 .name-empresa {
   font-weight: 600;
-    font-size: 50px;
-    background-image: var(--gradient);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+  font-size: 50px;
+  background-image: var(--gradient);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 .name-empresa-1 {
   display: none;
@@ -119,10 +109,10 @@
   margin-bottom: 10px;
   width: 11rem;
 }
-.links{
+.links {
   color: white;
 }
-.links:hover{
+.links:hover {
   color: red;
 }
 .icones-center {
