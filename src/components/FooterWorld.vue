@@ -18,20 +18,20 @@
           <a
             href="https://www.instagram.com/caique_o_castro?igsh=MXU4eWJmZXF4MHB1Ng=="
             target="_blank"
-            ><ion-icon class="icons" name="logo-instagram"></ion-icon
-          ></a>
+            ><i class="fa fa-whatsapp icons"></i>
+          </a>
         </div>
         <div class="icones">
           <a
             href="https://www.linkedin.com/in/caique-oliveira-front-end"
             target="_blank"
-            ><ion-icon class="icons" name="logo-linkedin"></ion-icon
-          ></a>
+            ><i class="fa fa-whatsapp icons"></i>
+          </a>
         </div>
         <div class="icones">
           <a href="https://wa.me/5511938001071" target="_blank"
-            ><ion-icon class="icons" name="logo-whatsapp"></ion-icon
-          ></a>
+            ><i class="fa fa-whatsapp icons"></i>
+          </a>
         </div>
       </div>
     </div>

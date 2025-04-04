@@ -25,17 +25,17 @@
     <div class="content-inicio-meio-topo">
       <div class="content-itens-meio-topo">
         <div class="itens-conteudo">
-          <ion-icon class="icons-icons" name="logo-whatsapp"></ion-icon>
+          <i class="fa fa-whatsapp icons-icons"></i>
           <h2 class="titulo-itens"><strong>Passo 1</strong></h2>
           <p class="sub-itens">Fale com um especialista.</p>
         </div>
         <div class="itens-conteudo-1">
-          <ion-icon class="icons-icons" name="globe-outline"></ion-icon>
+          <i class="fa fa-globe icons-icons"></i>
           <h2 class="titulo-itens"><strong>Passo 2</strong></h2>
           <p class="sub-itens">Coloque seu site no ar.</p>
         </div>
         <div class="itens-conteudo-2">
-          <ion-icon class="icons-icons" name="search-outline"></ion-icon>
+          <i class="fa fa-magnifying-glass icons-icons"></i>
           <h2 class="titulo-itens"><strong>Passo 3</strong></h2>
           <p class="sub-itens">Se conecte e veja seus resultados crescerem.</p>
         </div>
