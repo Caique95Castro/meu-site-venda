@@ -22,14 +22,14 @@
             <ion-icon class="icons" name="logo-instagram"></ion-icon>
           </a>
         </div>
-        <div class="icones">
+        <!-- <div class="icones">
           <a
             href="https://www.linkedin.com/in/caique-oliveira-front-end"
             target="_blank"
           >
-            <ion-icon class="icons" name="logo-linkedin "></ion-icon>
+            <ion-icon class="icons" name="logo-linkedin"></ion-icon>
           </a>
-        </div>
+        </div> -->
         <div class="icones">
           <a href="https://wa.me/5511938001071" target="_blank">
             <ion-icon class="icons" name="logo-whatsapp"></ion-icon>
